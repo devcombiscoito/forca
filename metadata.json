@@ -1,0 +1,5 @@
+{
+  "name": "forca.js",
+  "description": "Um jogo da forca moderno e inteligente, com modos clássicos e desafios gerados por IA usando o Gemini.",
+  "requestFramePermissions": []
+}
